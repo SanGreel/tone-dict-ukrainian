@@ -1,2 +1,2 @@
-# tone-dict-uk
+# tone-dict
 Ukrainian tone dictionary
