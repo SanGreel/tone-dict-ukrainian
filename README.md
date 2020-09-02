@@ -2,3 +2,5 @@
 Ukrainian tone dictionary
 
 https://github.com/dkulagin/kartaslov/tree/master/dataset/emo_dict
+
+https://github.com/lang-uk
